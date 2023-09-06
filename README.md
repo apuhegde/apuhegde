@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on transitioning into a data engineer role after being a analytics profressional in the biomedical data space for 7 years
+- 👯 I’m looking to collaborate on anything and everything ETL/data warehousing/data modeling
+- 🤔 I’m looking for help with identifying real-world data sources that I can use for my next ETL project
+- 📫 How to reach me: email is best: apurvamhegde@gmail.com
+- 😄 Pronouns: she/her
+
 <!--
 **apuhegde/apuhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://hit.yhype.me/github/profile?user_id=17661162)
