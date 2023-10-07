@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on transitioning into a data engineer role after being an analytics profressional in the biomedical data space for 7 years
-- 👯 I’m looking to collaborate on anything and everything ETL/data warehousing/data modeling
-- 🤔 I’m looking for help with identifying real-world data sources that I can use for my next ETL project
+- 👯 I’m open to collaborating on anything and everything ETL/data warehousing/data modeling
+- 🤔 I’m looking for help with identifying real-world messy data sources that I can use for my next ETL project
 - 📫 How to reach me: email (apurvamhegde@gmail.com) or LinkedIn (linkedin.com/in/apurva-hegde)
 - 😄 Pronouns: she/her
 
