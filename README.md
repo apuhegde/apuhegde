@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with identifying real-world messy data sources that I can use for my next ETL project
 - 📫 How to reach me: email (apurvamhegde@gmail.com) or LinkedIn (linkedin.com/in/apurva-hegde)
 - 😄 Pronouns: she/her
-
 - 💬 Ask me about my latest project: https://github.com/apuhegde/TransBorderFreight-pySpark-BigQuery-Looker
+
 
 <!--
 **apuhegde/apuhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
